@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.myloginapp.model.Employee;
+import main.java.com.example.springbootlogin.model.Employee;
 
 @CrossOrigin(origins = "http://localhost:4200")
 @RestController
